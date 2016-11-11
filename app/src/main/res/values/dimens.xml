@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="weekday_textsize">12sp</dimen>
+    <dimen name="weekday_vertical_padding">2dp</dimen>
+    <dimen name="gridcell_stroke_size">1px</dimen>
+    <dimen name="gridcell_daynumber_textsize">12sp</dimen>
+    <dimen name="gridcell_padding">4dp</dimen>
+
+</resources>
